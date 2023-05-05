@@ -1,0 +1,24 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "analyze-array.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilyErickson/testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmilyErickson/testing-practice/issues"
+  },
+  "homepage": "https://github.com/EmilyErickson/testing-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.21.5",
+    "jest": "^29.5.0"
+  }
+}
